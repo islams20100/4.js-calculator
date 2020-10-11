@@ -1,0 +1,40 @@
+@media screen and (min-width:0px) and (max-width:600px)
+{
+    .cal
+    {
+        width: 80% !important;
+    }
+
+  
+}
+
+@media screen and (min-width:601px) and (max-width:786px)
+{
+    .cal
+    {
+        width: 60% !important;
+    }
+
+  
+
+@media screen and (min-width:769px) and (max-width:992px)
+{
+    .cal
+    {
+        width: 50% !important;
+    }
+
+
+
+}
+
+@media screen and (min-width:993px)
+{
+    .cal
+    {
+        width: 40% !important;
+    }
+
+ 
+
+}

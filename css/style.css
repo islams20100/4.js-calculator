@@ -1,0 +1,80 @@
+.cal
+{
+    /* background-color: darkkhaki; */
+    font-size: 2rem;
+    color: white;
+    width: 25%;
+    
+}
+
+.cal-head
+{
+    background-color:#635251;
+    padding: 1rem 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+
+.cal-screen
+{
+    background-color: #f7bd7b;
+    width: 90%;
+    height: 3rem;
+    border-radius: 10px;
+}
+
+.cal-screen .line
+{
+    background-color: white;
+    height: 100%;
+    width: 15%;
+    transform: skew(-20deg);
+    top: 0;
+    right: 10%;
+}
+
+.cal-screen .line2
+{
+    background-color: white;
+    height: 100%;
+    width: 5%;
+    transform: skew(-20deg);
+    top: 0;
+    right: 30%;
+}
+
+.cal-body
+{
+    background-color: #f7a43a;
+    padding: 1rem 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.number
+{
+    background-color: #f78c19;
+    padding: 0.25rem 0.25rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    box-shadow: 0px 1px black ;
+}
+
+.operator
+{
+    background-color: #d5d6d6;
+    padding: 0.25rem 0.25rem;
+    border-radius: 10px;
+    box-shadow: 0px 1px black;
+    color: black;
+}
+
+button
+{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
